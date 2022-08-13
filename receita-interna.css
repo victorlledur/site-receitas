@@ -1,0 +1,260 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    position: absolute;
+    width: 1440px;
+    height: 117px;
+    left: 0px;
+    top: 0px;
+}
+
+#logo {
+    position: absolute;
+    width: 324px;
+    height: 84px;
+    left: 537px;
+    top: 16px;
+}
+
+.logo {
+    background-color: #FFC107;
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 117px;
+}
+
+#links {
+    position: absolute;
+    background-color: #FFA000;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 48px;
+    left: 0px;
+    top: 117px;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+}
+
+a {
+    color: #FDFDFD;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 {
+    position: absolute;
+    width: 462px;
+    height: 61px;
+    left: 120px;
+    top: 230px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    /* identical to box height */
+
+    text-transform: lowercase;
+
+    color: #FFA000;
+    padding-bottom: 10px;
+}
+
+#risoto {
+    position: absolute;
+    width: 592px;
+    height: 311px;
+    left: 120px;
+    top: 361px;
+
+    background: #C4C4C4;
+}
+
+.facil {
+    position: absolute;
+    width: 74px;
+    height: 17px;
+    left: 130px;
+    top: 670px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: lowercase;
+
+    color: #176902;
+    border: 1px solid #176902;
+    border-radius: 47px;
+    padding-bottom: 3px;
+}
+
+.serve {
+    position: absolute;
+    width: 152.67px;
+    height: 17px;
+    left: 254.63px;
+    top: 670px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: lowercase;
+
+    color: #176902;
+    border: 1px solid #176902;
+    border-radius: 47px;
+    padding-bottom: 3px;
+}
+
+.ingredientes {
+    position: absolute;
+    width: 592px;
+    height: 480px;
+    left: 128px;
+    top: 766px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: lowercase;
+
+    color: #000000;
+}
+
+.video {
+    position: absolute;
+    width: 580px;
+    height: 317px;
+    left: 120px;
+    top: 1303px;
+}
+
+#preparo {
+    position: absolute;
+    width: 592px;
+    height: 576px;
+    left: 128px;
+    top: 1655px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: lowercase;
+
+    color: #000000;
+}
+
+#receitasrel {
+    position: absolute;
+    width: 321px;
+    height: 37px;
+    left: 904px;
+    top: 313px;
+    color: #FFA000;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+#boxmoqueca {
+    position: absolute;
+    width: 345px;
+    height: 411px;
+    left: 904px;
+    top: 407px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: lowercase;
+    color: #000000;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#bolo {
+    position: absolute;
+    width: 345px;
+    height: 411px;
+    left: 904px;
+    top: 873px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: lowercase;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tabule {
+    position: absolute;
+    width: 345px;
+    height: 411px;
+    left: 907px;
+    top: 1374px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: lowercase;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.rodape {
+    position: absolute;
+    width: 1440px;
+    height: 119px;
+    left: 0px;
+    top: 2397px;
+
+    background: #FFC107;
+}
+
+.logo2 {
+    position: absolute;
+    width: 324px;
+    height: 84px;
+    left: 6px;
+    top: 20px;
+}
+
+.direitos {
+    position: absolute;
+    width: 464px;
+    height: 22px;
+    left: 368px;
+    top: 35px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-transform: lowercase;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,196 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    position: absolute;
+    width: 1440px;
+    height: 117px;
+    left: 0px;
+    top: 0px;
+}
+
+#logo {
+    position: absolute;
+    width: 324px;
+    height: 84px;
+    left: 537px;
+    top: 16px;
+}
+
+.logo {
+    background-color: #FFC107;
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 117px;
+}
+
+#links {
+    position: absolute;
+    background-color: #FFA000;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 48px;
+    left: 0px;
+    top: 117px;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+}
+
+a {
+    color: #FDFDFD;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.alo {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1440px;
+    height: 405px;
+    left: 0px;
+    top: 165px;
+
+    background: url(image.png);
+    border: 1px solid #000000;
+}
+
+.contato {
+    position: absolute;
+    width: 350px;
+    height: 771px;
+    left: 127px;
+    top: 672px;
+
+    background: url(image.png);
+    border-radius: 20px;
+}
+
+h2 {
+    position: absolute;
+    left: 35px;
+    top: 50px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+
+    color: #FFC107;
+
+}
+
+.form {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 820px;
+    height: 766px;
+    left: 492px;
+    top: 672px;
+    background: #FFFFFF;
+    border: 1px solid #FFA000;
+    border-radius: 20px;
+}
+
+#nome {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 4.6%;
+    right: 4%;
+    top: 21.48%;
+    bottom: 70.88%;
+
+    background: #FFFFFF;
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+}
+
+#email {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 4.6%;
+    right: 4%;
+    top: 32.7%;
+    bottom: 59.67%;
+
+    background: #FFFFFF;
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+}
+
+#mensagem {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 4.6%;
+    right: 4.06%;
+    top: 43.68%;
+    bottom: 20.26%;
+    text-align: start;
+    background: #FFFFFF;
+    border: 1px solid #FFA000;
+    border-radius: 7px;
+}
+
+#button {
+    position: absolute;
+    left: 4.06%;
+    right: 77.56%;
+    top: 82.31%;
+    bottom: 12.06%;
+
+    background: #FFC107;
+    border-radius: 50px;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    text-transform: lowercase;
+    color: #FFFFFF;
+    border-color: #FFC107;
+}
+.rodape {
+    position: absolute;
+    width: 1440px;
+    height: 119px;
+    left: 0px;
+    top: 1600px;
+
+    background: #FFC107;
+}
+
+.logo2 {
+    position: absolute;
+    width: 324px;
+    height: 84px;
+    left: 6px;
+    top: 20px;
+}
+
+.direitos {
+    position: absolute;
+    width: 464px;
+    height: 22px;
+    left: 368px;
+    top: 35px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-transform: lowercase;
+
+    color: #FFFFFF;
+}
